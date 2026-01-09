@@ -2,7 +2,7 @@
 
 A powerful, GPU-accelerated media compression tool for Windows.
 
-![DFCompressor Logo](resources/icons/app_icon.png)
+![DFCompressor Logo](resources/icons/logo.png)
 
 ## Features
 
@@ -94,3 +94,4 @@ MIT License - see [LICENSE](installer/LICENSE.txt)
 - Built with [Qt](https://www.qt.io/)
 - Video processing powered by [FFmpeg](https://ffmpeg.org/)
 - Image processing powered by [libvips](https://libvips.github.io/libvips/)
+
